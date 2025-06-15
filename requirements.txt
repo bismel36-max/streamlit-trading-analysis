@@ -1,0 +1,7 @@
+streamlit
+python-binance
+ta
+requests
+pandas
+numpy
+yfinance
