@@ -11,7 +11,7 @@ import requests, yfinance as yf
 # API Binance (gunakan akunmu sendiri)
 API_KEY = 'S0SwKgYmE9Hk29U7RH6ad64qkO5wc5CUIrz33jh7iVFRURiDpJAvGw6qN1hT9u7F'
 API_SECRET = 'VO0r6C3Glscilr7z0K00MZLR8n6poXxA4eC7Qfy5G2Hufqsu9VUatzvx9fAIQltj'
-client = Client(API_KEY, API_SECRET)
+client = c9e4ae61098549168206dfa2584af6dd
 
 st.set_page_config(layout="wide")
 st.title("📊 Sistem Analisa Trading Profesional Binance")
